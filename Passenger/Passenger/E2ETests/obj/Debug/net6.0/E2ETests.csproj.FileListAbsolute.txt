@@ -1,0 +1,12 @@
+C:\Users\laptop\Documents\REPO\Passenger\Passenger\E2ETests\bin\Debug\net6.0\E2ETests.deps.json
+C:\Users\laptop\Documents\REPO\Passenger\Passenger\E2ETests\bin\Debug\net6.0\E2ETests.dll
+C:\Users\laptop\Documents\REPO\Passenger\Passenger\E2ETests\bin\Debug\net6.0\ref\E2ETests.dll
+C:\Users\laptop\Documents\REPO\Passenger\Passenger\E2ETests\bin\Debug\net6.0\E2ETests.pdb
+C:\Users\laptop\Documents\REPO\Passenger\Passenger\E2ETests\obj\Debug\net6.0\E2ETests.csproj.AssemblyReference.cache
+C:\Users\laptop\Documents\REPO\Passenger\Passenger\E2ETests\obj\Debug\net6.0\E2ETests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop\Documents\REPO\Passenger\Passenger\E2ETests\obj\Debug\net6.0\E2ETests.AssemblyInfoInputs.cache
+C:\Users\laptop\Documents\REPO\Passenger\Passenger\E2ETests\obj\Debug\net6.0\E2ETests.AssemblyInfo.cs
+C:\Users\laptop\Documents\REPO\Passenger\Passenger\E2ETests\obj\Debug\net6.0\E2ETests.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Documents\REPO\Passenger\Passenger\E2ETests\obj\Debug\net6.0\E2ETests.dll
+C:\Users\laptop\Documents\REPO\Passenger\Passenger\E2ETests\obj\Debug\net6.0\ref\E2ETests.dll
+C:\Users\laptop\Documents\REPO\Passenger\Passenger\E2ETests\obj\Debug\net6.0\E2ETests.pdb

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "AHtOgILEbD4M2WDSD4UjtoP79COMe+A3v8xtNgrML9KumDLdIPuoLIzMH4q9cB1+LJKrsHopisICeKgyulxnpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laptop\\Documents\\REPO\\Passenger\\Passenger\\UnitTests\\UnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laptop\\.nuget\\packages\\fluentassertions\\6.5.0\\fluentassertions.6.5.0.nupkg.sha512",
+    "C:\\Users\\laptop\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\laptop\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\laptop\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\laptop\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\laptop\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\laptop\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
